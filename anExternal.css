@@ -1,0 +1,57 @@
+body p {
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+}
+
+body li {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p {
+    line-height: 1.5;
+    border-style: dotted;
+}
+.Chris {
+    max-height: 400px;
+}
+.colored-sentence {
+    color:  hsl(30, 100%, 50%, 0.6);
+}
+
+.Chris1 {
+    height: 50px;
+    width: 50px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.Chris2 {
+    height: 50px;
+    width: 50px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    float: right;
+}
+
+.Chris3{
+    border-radius: 40px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+    font-size: 50px;
+
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
