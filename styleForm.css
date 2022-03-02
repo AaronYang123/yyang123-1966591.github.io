@@ -1,0 +1,49 @@
+legend{
+    font-size:25px;
+    font-weight:bold;
+    padding-top:10px;
+    color:#031528
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: grey;
+}
+
+#Account {
+    background-color:grey
+}
+#Personal {
+    background-color:grey
+}
+#Availability {
+    background-color:grey
+}
+#Personalstatement {
+    background-color:grey
+}
+#Submit {
+    background-color:grey
+}
+#Contact {
+    background-color:grey
+}
+#Experience {
+    background-color:grey
+}
+#Resume {
+    background-color:grey
+}
+#CoverLetter {
+    background-color:grey
+}
+#Experience1 {
+    margin-left:40px
+}
+#Experience2 {
+    margin-left:40px
+}
+#Expereience3 {
+    margin-left:40px
+}
